@@ -2,8 +2,6 @@
 
 Веб-приложение для управления задачами онлайн-школы. Заменяет разрозненные Telegram, Google Таблицы и Notion единым инструментом.
 
-**[Демо-доступ](https://shkolarosta.duckdns.org)** — admin@shkolarosta.ru / admin123
-
 ---
 
 ## Задача клиента
@@ -61,15 +59,6 @@ cd client && npm install && npm run build
 # Запуск
 npm start
 ```
-
----
-
-## Демо-аккаунты
-
-| Роль | Email | Пароль |
-|---|---|---|
-| Администратор | admin@shkolarosta.ru | admin123 |
-| Сотрудник | maria@shkolarosta.ru | pass123 |
 
 ---
 
